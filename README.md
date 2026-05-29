@@ -1,1 +1,1 @@
-I worked through realistic security scenarios that allowed me to practice in‑depth log analysis and gain hands‑on experience across multiple SIEM platforms. Along the way, I strengthened my detection engineering skills by troubleshooting and fixing issues related to detections, alerting, and logging pipelines. This path also helped me build advanced Blue Team capabilities, including threat hunting and emulation, incident response, and foundational malware analysis, giving me a well‑rounded understanding of modern defensive security operations.
+
