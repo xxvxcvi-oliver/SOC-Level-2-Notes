@@ -1,2 +1,1 @@
-# Cybersecurity-Lab-Collection
-This repository serves as a portfolio of hands‑on cybersecurity labs completed during my graduate studies, highlighting my ability to solve real security problems with clarity and precision. The labs cover incident response, network and cloud defense, IAM, vulnerability management, and digital forensics—showcasing both technical execution and strong documentation skills. This collection provides hiring teams with a transparent view of my capabilities and my readiness to contribute to SOC, security analysis, and enterprise security roles.
+
